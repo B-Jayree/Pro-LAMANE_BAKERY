@@ -1,0 +1,16 @@
+.conter-img {
+  margin: 0;
+  padding: 0;
+    background-image: url(./img/hed-img-1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 590;
+}
+.main-colo{
+    color: #E9BD8C;
+
+}
+.bg-main{
+  background-color: #933C24;
+}
