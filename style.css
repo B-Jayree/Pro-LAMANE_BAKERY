@@ -20,11 +20,35 @@
 }
 
 .product{
+  background-repeat: no-repeat;
+  background-size: cover;
   background-image: url(./img/Products-bg.png);
   width: 25%;
 
 }
 .bg-main{
   background-color: 933C24;
-  color: white;
+}
+.discount-container{
+  background-image: url(./img/Discount-bg.png);
+    background-repeat: no-repeat;
+  background-position: center;
+  width:100%;
+  background-size: cover;
+}
+.text-main{
+  color: 933C24;
+}
+.text-d{
+  color: F9F6F1;
+}
+
+@media (max-width:768px){
+  .product{
+    width: 45%;
+  }
+  .discount-container{
+    width: auto;
+    height: 300px;
+  }
 }
