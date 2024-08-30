@@ -51,4 +51,8 @@
     width: auto;
     height: 300px;
   }
+  .conter-img{
+    width: auto;
+    height: auto;
+  } 
 }
