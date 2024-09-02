@@ -37,10 +37,10 @@
   background-size: cover;
 }
 .text-main{
-  color: 933C24;
+  color: #933C24;
 }
 .text-d{
-  color: F9F6F1;
+  color: #F9F6F1;
 }
 
 @media (max-width:768px){
@@ -49,10 +49,19 @@
   }
   .discount-container{
     width: auto;
-    height: 300px;
+    height: auto;
   }
   .conter-img{
     width: auto;
     height: auto;
   } 
+}
+.tui{
+  color: #5D5D5D;
+}
+.items{
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 27%;
+
 }
