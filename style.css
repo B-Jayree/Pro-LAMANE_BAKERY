@@ -65,3 +65,24 @@
   width: 27%;
 
 }
+
+.aboutus{
+  background-image: url(./img/aboutus\ image\ -\ Copy.png);
+    background-repeat: no-repeat;
+  background-position: center;
+  width:100%;
+  background-size: cover;
+}
+.bg-main{
+  border: none;
+  border-radius: 3px;
+  padding: 13px 23px;
+  font-size: 11px;
+  font-weight: bold ;
+  color:#ffffff;
+  background-color: #933C24;
+  cursor: pointer;
+}
+.gg{
+  color:  #B9B9B9;
+}
