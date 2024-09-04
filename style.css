@@ -55,6 +55,11 @@
     width: auto;
     height: auto;
   } 
+  .p5,
+  .p4,
+  .p3{
+    width: 70%;
+  }
 }
 .tui{
   color: #5D5D5D;
@@ -85,4 +90,25 @@
 }
 .gg{
   color:  #B9B9B9;
+}
+@media (max-width:320px){
+  .p5,
+  .p4,
+  .p3{
+    width: 70%;
+  }
+}
+@media (max-width:375px){
+  .p5,
+  .p4,
+  .p3{
+    width: 70%;
+  }
+}
+@media (max-width:425px){
+  .p5,
+  .p4,
+  .p3{
+    width: 70%;
+  }
 }
