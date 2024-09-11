@@ -112,3 +112,29 @@
     width: 70%;
   }
 }
+.bg-footer{
+  background-image: url(./img/background.png);
+  height: auto;
+}
+
+.gg2{
+  border-color:  #E9BD8D33;
+}
+.g{
+  color: #E9BD8D;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ 
+.color-g{
+  color: #E9BD8D;
+  font-size: x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.menu-bg{
+  background-image: url(./img/Menu\ background.jpeg);
+  height: 520px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
