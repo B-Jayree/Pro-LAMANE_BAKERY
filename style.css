@@ -138,3 +138,21 @@
   background-size: cover;
   background-position: center;
 }
+.pastry-products{
+  background-image: url(./img/background.png);
+  height: 590;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.border-g{
+  border-bottom: 2px solid #E9BD8C;
+}
+.border-g1{
+  border-bottom: 2px solid #E9BD8C;
+  border-top: 2px solid #E9BD8C;
+}
+.round1{
+ border-top-left-radius: 5%;
+ border-top-right-radius: 5%;
+}
