@@ -115,6 +115,7 @@
 .bg-footer{
   background-image: url(./img/background.png);
   height: auto;
+ 
 }
 
 .gg2{
@@ -155,4 +156,8 @@
 .round1{
  border-top-left-radius: 5%;
  border-top-right-radius: 5%;
+}
+.items1{
+  width: 30%;
+  background-size: cover;
 }
