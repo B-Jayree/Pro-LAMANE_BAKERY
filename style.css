@@ -162,3 +162,7 @@
   width: 30%;
   background-size: cover;
 }
+.border-g2{
+  border-bottom: 2px solid #E9BD8C;
+  border-radius: 5%;
+}
