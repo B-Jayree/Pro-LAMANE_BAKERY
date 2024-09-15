@@ -163,3 +163,6 @@
   border-bottom: 2px solid #E9BD8C;
   border-radius: 5%;
 }
+.top{
+  position: sticky;
+}
