@@ -166,3 +166,12 @@
 .top{
   position: sticky;
 }
+.border-colo{
+  border: 1px #E9BD8C solid ;
+}
+.bg-colo{
+  background-color: #E9BD8C;
+}
+.border-g3{
+  border-bottom: 1px solid #E9BD8C;
+}
