@@ -57,7 +57,18 @@
   .p3{
     width: 70%;
   }
+  .feat{
+    display: flex;
+    flex-direction: column;
+  }
 }
+@media (min-width:768px) and (max-width:1024px){
+  .feat{ 
+    display: flex;
+    flex-direction: row;
+  }
+  }
+
 .tui{
   color: #5D5D5D;
 }
@@ -174,4 +185,9 @@
 }
 .border-g3{
   border-bottom: 1px solid #E9BD8C;
+}
+.pro1{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(./img/Products-bg.png);
 }
