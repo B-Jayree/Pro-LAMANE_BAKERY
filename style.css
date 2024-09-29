@@ -61,12 +61,32 @@
     display: flex;
     flex-direction: column;
   }
+  .flec{
+    display: flex;
+    flex-direction: column;
+  }
 }
 @media (min-width:768px) and (max-width:1024px){
   .feat{ 
     display: flex;
     flex-direction: row;
   }
+  .header4{
+    display: flex;
+    align-items: center;
+    width: 30%;
+  }
+  .flec{
+    display: flex;
+    flex-direction: row;
+  }
+  }
+  @media (max-width:1024px) {
+    .flec{
+      display: flex;
+      flex-direction: row;
+    }
+    
   }
 
 .tui{
